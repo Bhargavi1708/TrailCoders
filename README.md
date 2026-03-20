@@ -22,7 +22,7 @@ Currently, there is no system that compensates for income loss caused by such un
 
 ## 👤 Target Persona
 
-<img width="1202" height="712" alt="Screenshot 2026-03-18 214114" src="https://github.com/user-attachments/assets/b22917ca-44f5-47f5-8a73-4541c2acc32c" />
+<img width="1202" height="712" alt="Screenshot 2026-03-18 214114" src="https://github.com/Bhargavi1708/ai-insurance/blob/main/3123d932-e79c-4888-97f0-3d38d0ca5c52.png" />
 
 ## 💡 Proposed Solution
 
@@ -64,7 +64,7 @@ Tools: GitHub, Postman, VS Code
 
 ## 🏗️ System Architecture  
 
-<img width="1328" height="727" alt="Screenshot 2026-03-19 201242" src="https://github.com/user-attachments/assets/77e5bbba-9061-43f8-a64a-1b007f494723" />
+<img width="1328" height="727" alt="Screenshot 2026-03-19 201242" src="https://github.com/Bhargavi1708/ai-insurance/blob/main/3123d932-e79c-4888-97f0-3d38d0ca5c52.png" />
 
 ## 🚀 Why GigShield Stands Out
 
